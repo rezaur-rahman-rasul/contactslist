@@ -1,8 +1,4 @@
-package contacts.list
-
-import com.reza.ocl.AuthenticationService
-import com.reza.ocl.MemberService
-
+package com.reza.ocl
 
 class AuthenticationController {
 

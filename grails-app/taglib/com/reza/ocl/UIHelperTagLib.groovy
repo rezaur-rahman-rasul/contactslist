@@ -5,8 +5,8 @@ class UIHelperTagLib {
 
     static namespace = "UIHelper"
 
-  //  AuthenticationService authenticationService
-  //  ContactGroupService contactGroupService
+    AuthenticationService authenticationService
+   // ContactGroupService contactGroupService
 
     def renderErrorMessage = { attrs, body ->
         def model = attrs.model
