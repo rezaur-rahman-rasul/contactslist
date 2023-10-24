@@ -7,6 +7,12 @@
 //
 //= require jquery-3.3.1.min
 //= require bootstrap
-//= require ocl
 //= require popper.min
+//= require jquery-confirm.min
+//= require ocl
+//= require ocl.message.box
+//= require jquery-confirm
+//= require jquery-confirm
+//= require ocl.ajax
+//= require ocl.init
 //= require_self

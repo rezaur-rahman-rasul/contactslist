@@ -11,6 +11,7 @@
 *= require grails
 *= require style
 *= require fontawesome/css/all
+*= require jquery-confirm
 *= require mobile
 *= require_self
 */
